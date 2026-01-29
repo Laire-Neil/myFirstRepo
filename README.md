@@ -1,2 +1,7 @@
 # myFirstRepo
-My first GitHub repository for App Development and Git practice.
+
+This repository is created as part of our App Development activity.
+It demonstrates basic Git and GitHub operations such as commits,
+pushing changes, and collaboration.
+
+Author: Laire Neil Villena
